@@ -189,13 +189,9 @@ int main(int argc, char* argv[]) {
 # 실행 결과
 
 ### 영문 텍스트 (10개)
-
-ganzi1  ~ ganzi10qq
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c3677699-221e-4815-8d4e-4b443d63f94c/b6826829-c747-45b9-b3ed-59266d548e0b/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c3677699-221e-4815-8d4e-4b443d63f94c/74722d6d-bcfc-46e4-a5c0-08eb9de30cf8/image.png)
+ganzi1  ~ ganzi10
+![image](https://github.com/user-attachments/assets/080e85a2-ef1d-4ea0-a5a0-821a44c9dda4)
+![image](https://github.com/user-attachments/assets/d3263530-62d5-4c9d-9361-a07e4cd3cec1)
 
 ### 한글 테스트
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c3677699-221e-4815-8d4e-4b443d63f94c/b06fb0e5-2979-4a73-aefc-12a1d6cabada/image.png)
+![image](https://github.com/user-attachments/assets/e8a37ba1-5825-4340-9c68-26c39c4c6fd7)
